@@ -1,0 +1,3 @@
+[submodule "Memory-paging"]
+	path = Memory-paging
+	url = https://github.com/Lucasx10/AA_Memory-Paging
