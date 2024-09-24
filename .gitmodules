@@ -1,3 +1,6 @@
 [submodule "Memory-paging"]
 	path = Memory-paging
 	url = https://github.com/Lucasx10/AA_Memory-Paging
+[submodule "Gincana"]
+	path = Gincana
+	url = https://github.com/ed-henrique/analise-de-algoritmos.git
